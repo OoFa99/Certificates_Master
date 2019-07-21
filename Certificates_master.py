@@ -1,5 +1,4 @@
 from PIL import Image, ImageDraw, ImageFont
-import numpy
 
 font = ImageFont.truetype('your font file', size=140) #you can change the size
 color = 'rgb(0, 0, 0)' # black color
